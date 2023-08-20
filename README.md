@@ -6,6 +6,11 @@ It was tested on [Koriki]([https://AmberELEC.org](https://github.com/rg35xx-cfw/
 
 ---
 
+# How to install on [Koriki]([https://AmberELEC.org](https://github.com/rg35xx-cfw/Koriki/releases/latest))
+
+COPY PASTE ON SD CARD PARTITION NAME **SHARE**:
+\system\.simplemenu\themes\640x480     **<-- HERE**
+
 # Previews
 
 ### Systems
