@@ -10,7 +10,7 @@ It was tested on [Koriki]([https://AmberELEC.org](https://github.com/rg35xx-cfw/
 
 COPY PASTE ON SD CARD PARTITION NAME **SHARE**:
 
-\system\.simplemenu\themes\640x480     **<-- HERE**
+_\system\.simplemenu\themes\640x480_     **<-- HERE**
 
 # Previews
 
