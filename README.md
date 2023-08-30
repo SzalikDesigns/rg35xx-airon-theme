@@ -30,8 +30,9 @@ _\ system \ .simplemenu \ themes \ 640x480_        **<-- HERE**
 | ![consoles](https://github.com/SzalikDesigns/rg35xx-airon-theme/assets/77732736/8cef7158-0bd4-4628-8cef-f579fba41576) | ![handhelds](https://github.com/SzalikDesigns/rg35xx-airon-theme/assets/77732736/d59fb975-f6fb-4165-a389-c02af0043791) |
 
 ### Systemview
-![background](https://github.com/SzalikDesigns/rg35xx-airon-theme/assets/77732736/96622d89-8056-423b-9868-70d85cc50120)
 
+|![background](https://github.com/SzalikDesigns/rg35xx-airon-theme/assets/77732736/27b4b654-c590-4152-b702-93034610740d)
+|----|
 ---
 
 # License
