@@ -2,7 +2,7 @@
 ---
 🅰🅸🆁🅾🅽
 
-**THEME WORKS, but not all systems are covered yet**
+**THEME WORKS, most of important systems are covered. im now filling gaps with the less popular ones**
 
 <br />Simple menu theme for **RG35XX** ( 640x480 screen ) / **if it works on miyoo mini please let me know with ticket**
 
