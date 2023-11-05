@@ -8,6 +8,8 @@
 
 It was tested on  [Koriki](https://github.com/rg35xx-cfw/Koriki/releases)  
 
+<img src="https://github.com/SzalikDesigns/rg35xx-airon-theme/assets/77732736/c0436517-cafb-45c1-b757-dd04b3020db3" width="250" height="250">
+
 ---
 
 # How to install on Koriki
