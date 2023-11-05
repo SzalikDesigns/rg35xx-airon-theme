@@ -2,11 +2,11 @@
 ---
 🅰🅸🆁🅾🅽
 
-**THEME WORKS, most of important systems are covered. im now filling gaps with the less popular ones**
+**THEME Completed, took me some time, but im busy. Enjoy**
 
-<br />Simple menu theme for **RG35XX** ( 640x480 screen ) / **if it works on miyoo mini please let me know with ticket**
+<br />Simple menu theme for **RG35XX** ( 640x480 screen ) / 
 
-It was tested on [Koriki]([https://AmberELEC.org](https://github.com/rg35xx-cfw/Koriki/releases/latest)) / **maybe it work with garlicos too let me know :D**
+It was tested on [Koriki]([https://AmberELEC.org](https://github.com/rg35xx-cfw/Koriki/releases/latest)) / 
 
 ---
 
