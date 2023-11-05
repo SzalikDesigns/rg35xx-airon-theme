@@ -4,13 +4,13 @@
 
 **THEME Completed, took me some time, but im busy. Enjoy**
 
-<br />Simple menu theme for **RG35XX** ( 640x480 screen ) / 
+<br />Simple menu theme for Anbernic **RG35XX** ( 640x480 screen ) / 
 
-It was tested on [Koriki]([https://AmberELEC.org](https://github.com/rg35xx-cfw/Koriki/releases/latest)) / 
+It was tested on Koriki [Link]([https://github.com/rg35xx-cfw/Koriki/releases/latest](https://github.com/rg35xx-cfw/Koriki/releases))  
 
 ---
 
-# How to install on [Koriki]([https://AmberELEC.org](https://github.com/rg35xx-cfw/Koriki/releases/latest))
+# How to install on Koriki
 
 Copy-paste folder "**Airon-Theme**" on your SD Cart Partition named "**SHARE**":
 
