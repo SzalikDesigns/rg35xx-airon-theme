@@ -6,7 +6,7 @@
 
 <br />Simple menu theme for Anbernic **RG35XX** ( 640x480 screen ) / 
 
-It was tested on Koriki [Link]([https://github.com/rg35xx-cfw/Koriki/releases/latest](https://github.com/rg35xx-cfw/Koriki/releases))  
+It was tested on  [Koriki](https://github.com/rg35xx-cfw/Koriki/releases)  
 
 ---
 
