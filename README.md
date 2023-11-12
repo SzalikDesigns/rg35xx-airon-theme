@@ -33,7 +33,7 @@ _\ system \ .simplemenu \ themes \ 640x480_        **<-- HERE**
 
 ### Systemview
 
-|![background](https://github.com/SzalikDesigns/rg35xx-airon-theme/assets/77732736/27b4b654-c590-4152-b702-93034610740d)
+|![background](https://github.com/SzalikDesigns/rg35xx-airon-theme/assets/77732736/1de3cd5d-ecc0-4d56-9767-74e2890b1794)
 |----|
 ---
 
