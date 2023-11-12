@@ -2,15 +2,17 @@
 ---
 🅰🅸🆁🅾🅽
 
-**THEME WORKS, most of important systems are covered. im now filling gaps with the less popular ones**
+**THEME Completed, took me some time, but im busy. Enjoy**
 
-<br />Simple menu theme for **RG35XX** ( 640x480 screen ) / **if it works on miyoo mini please let me know with ticket**
+<br />Simple menu theme for Anbernic **RG35XX** ( 640x480 screen ) / 
 
-It was tested on [Koriki]([https://AmberELEC.org](https://github.com/rg35xx-cfw/Koriki/releases/latest)) / **maybe it work with garlicos too let me know :D**
+It was tested on  [Koriki](https://github.com/rg35xx-cfw/Koriki/releases)  
+
+<img src="https://github.com/SzalikDesigns/rg35xx-airon-theme/assets/77732736/c0436517-cafb-45c1-b757-dd04b3020db3" width="250" height="250">
 
 ---
 
-# How to install on [Koriki]([https://AmberELEC.org](https://github.com/rg35xx-cfw/Koriki/releases/latest))
+# How to install on Koriki
 
 Copy-paste folder "**Airon-Theme**" on your SD Cart Partition named "**SHARE**":
 
